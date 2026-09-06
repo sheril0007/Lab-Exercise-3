@@ -1,6 +1,6 @@
 # Lab-Exercise-3
-### NAME: EZHIL NEVEDHA K
-### REG NO: 212223230055
+### NAME: P.SHERIL
+### REG NO: 212225230262
 
 ## AIM:
 To design and compare the mobile UI layouts of Etsy and Depop by creating user-friendly screens with consistent navigation, visual hierarchy, and interactive elements using Figma.
